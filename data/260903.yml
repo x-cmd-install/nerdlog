@@ -1,11 +1,13 @@
 about:
-  description: Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
+  description:
+  |
+    Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
   license: BSD-2-Clause
   homepage: https://dmitryfrank.com/projects/nerdlog/article
   head: cd353c7
   archived: false
   latestVersion: v1.10.0
-  collectedAt: 2026-09-03T05:08:58Z
+  collectedAt: 2026-09-03T22:38:12Z
 timeline:
   created: 2025-04-20
   lastCommit: 2026-08-30
@@ -22,7 +24,7 @@ language:
   Go: 544247
   Shell: 50370
   Makefile: 4100
-totalLine: 598717
+totalBytes: 598717
 recent:
   last30d:
     since: 2026-08-04
