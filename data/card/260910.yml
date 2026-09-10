@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.10.0"
   latestRelease: "v1.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:26:32Z
+  collectedAt: 2026-09-10T16:04:12Z
 timeline:
   created: 2025-04-20
   lastCommit: 2026-08-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-06-09
   lastPrerelease: 
 popularity:
-  star: 1557
+  star: 1558
   watcher: 6
   fork: 40
   release: 18
@@ -85,7 +85,7 @@ total:
   commit: 468
 ---
 path: /home/runner/.x-repo/github.com/dimonomid/nerdlog
-collectedAt: 2026-09-10T03:26:33Z
+collectedAt: 2026-09-10T16:04:14Z
 loc:
   Go:
     code: 15042
