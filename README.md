@@ -12,6 +12,18 @@ Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram a
 x install nerdlog
 ```
 
+## Code insight
+
+Total: **17,706** lines of code across **147** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 15,042 | 1,995 | 3,289 | 64 |
+| Yaml | 1,481 | 83 | 122 | 64 |
+| Sh | 1,105 | 267 | 158 | 5 |
+| Makefile | 78 | 14 | 9 | 1 |
+| Markdown | 0 | 668 | 401 | 13 |
+
 ## Source
 
 - **Upstream**: <https://github.com/dimonomid/nerdlog>
@@ -23,6 +35,25 @@ x install nerdlog
 - **Latest**: `v1.10.0` (2025-06-09)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 45
+
+## Popularity
+
+- **Stars**: 1,558 · **Forks**: 40 · **Open issues**: 31 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 18 · **Merged PRs**: 19 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 14 · **Commits**: 468
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last720d | 2024-09-20 | 18 | 19 | 1 | 17 | 14 | 303 |
 
 ## Release assets
 
@@ -74,33 +105,18 @@ x install nerdlog
 | [nerdlog_1.10.0_windows_i386.zip](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip) | 2.5 MiB | `native/win/x64` |
 | [nerdlog_1.10.0_windows_i386.zip.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip.sbom.json) | 27.8 KiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,558 · **Forks**: 40 · **Open issues**: 31 · **Contributors**: 2
+Reported by **21** distros on [repology.org](https://repology.org/project/nerdlog). **20** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 18 · **Merged PRs**: 19 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 14 · **Commits**: 468
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 1 | 0 | 2 |
-
-## Code size
-
-Total: **17,706** lines of code across **147** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 15,042 | 1,995 | 3,289 | 64 |
-| Yaml | 1,481 | 83 | 122 | 64 |
-| Sh | 1,105 | 267 | 158 | 5 |
-| Makefile | 78 | 14 | 9 | 1 |
-| Markdown | 0 | 668 | 401 | 13 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.10.0` | ✅ latest |
+| Debian 14 | `1.10.0` | ✅ latest |
+| Ubuntu 26.04 LTS | `1.10.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.10.0` | ✅ latest |
+| Alpine edge | `1.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -111,4 +127,4 @@ Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:21Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:25:25Z._
