@@ -1,0 +1,263 @@
+- repo: kali_rolling
+  subrepo: main
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-2
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: nerdlog
+  visiblename: nerdlog
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI log viewer with timeline histogram and no central server
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nerdlog
+  binname: nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-r10
+  status: newest
+  summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nerdlog
+  binname: nerdlog-doc
+  visiblename: nerdlog-doc
+  version: 1.10.0
+  origversion: 1.10.0-r10
+  status: newest
+  summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nerdlog
+  binname: nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-r11
+  status: newest
+  summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nerdlog
+  binname: nerdlog-doc
+  visiblename: nerdlog-doc
+  version: 1.10.0
+  origversion: 1.10.0-r11
+  status: newest
+  summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nerdlog
+  binname: nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-r11
+  status: newest
+  summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nerdlog
+  binname: nerdlog-doc
+  visiblename: nerdlog-doc
+  version: 1.10.0
+  origversion: 1.10.0-r11
+  status: newest
+  summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: nerdlog-bin
+  binname: nerdlog-bin
+  visiblename: nerdlog-bin
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: newest
+  summary: 'Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server'
+  maintainers:
+    - loacker@aur
+  licenses:
+    - BSD-2-Clause
+- repo: debian_14
+  subrepo: forky/main
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-2
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-3
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-3
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: freebsd
+  srcname: textproc/nerdlog
+  binname: nerdlog
+  visiblename: textproc/nerdlog
+  version: 1.10.0
+  origversion: 1.10.0_18
+  status: newest
+  summary: Fast, multi-host TUI log viewer with timeline histogram
+  maintainers:
+    - lwhsu@freebsd.org
+  categories:
+    - textproc
+- repo: homebrew
+  srcname: nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: null
+  status: newest
+  summary: TUI log viewer with timeline histogram and no central server
+- repo: macports
+  srcname: sysutils/nerdlog
+  binname: nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: null
+  status: newest
+  summary: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - BSD
+  categories:
+    - sysutils
+- repo: nix_unstable
+  srcname: nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: null
+  status: newest
+  summary: Fast, remote-first, multi-host TUI log viewer with timeline histogram
+  maintainers:
+    - toki@toph.so
+  licenses:
+    - BSD-2-Clause
+- repo: raspbian_testing
+  subrepo: main
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-2
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+    - nerdlog-debuginfo
+    - nerdlog-debugsource
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: newest
+  summary: TUI log viewer
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LGPL-3.0-only AND MIT
+  categories:
+    - System/Base
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-2
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.10.0
+  origversion: 1.10.0-2
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
