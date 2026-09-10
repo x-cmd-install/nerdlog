@@ -23,11 +23,60 @@ x install nerdlog
 - **Latest**: `v1.10.0` (2025-06-09)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 45
-- **Published**: 2025-06-09T06:53:42Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/checksums.txt) | 2.3 KiB | `other` |
+| [nerdlog.exe_1.10.0_windows_amd64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog.exe_1.10.0_windows_amd64.pem) | 3.1 KiB | `native/win/x64` |
+| [nerdlog.exe_1.10.0_windows_amd64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog.exe_1.10.0_windows_amd64.sig) | 96 B | `native/win/x64` |
+| [nerdlog.exe_1.10.0_windows_arm64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog.exe_1.10.0_windows_arm64.pem) | 3.1 KiB | `native/win/arm64` |
+| [nerdlog.exe_1.10.0_windows_arm64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog.exe_1.10.0_windows_arm64.sig) | 96 B | `native/win/arm64` |
+| [nerdlog.exe_1.10.0_windows_i386.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog.exe_1.10.0_windows_i386.pem) | 3.1 KiB | `native/win/x64` |
+| [nerdlog.exe_1.10.0_windows_i386.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog.exe_1.10.0_windows_i386.sig) | 96 B | `native/win/x64` |
+| [nerdlog_1.10.0_darwin_amd64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_amd64.pem) | 3.1 KiB | `native/darwin/x64` |
+| [nerdlog_1.10.0_darwin_amd64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_amd64.sig) | 96 B | `native/darwin/x64` |
+| [nerdlog_1.10.0_darwin_amd64.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_amd64.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [nerdlog_1.10.0_darwin_amd64.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_amd64.tar.gz.sbom.json) | 27.7 KiB | `native/darwin/x64` |
+| [nerdlog_1.10.0_darwin_arm64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_arm64.pem) | 3.1 KiB | `native/darwin/arm64` |
+| [nerdlog_1.10.0_darwin_arm64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_arm64.sig) | 96 B | `native/darwin/arm64` |
+| [nerdlog_1.10.0_darwin_arm64.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_arm64.tar.gz) | 2.5 MiB | `native/darwin/arm64` |
+| [nerdlog_1.10.0_darwin_arm64.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_darwin_arm64.tar.gz.sbom.json) | 27.7 KiB | `native/darwin/arm64` |
+| [nerdlog_1.10.0_freebsd_amd64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_amd64.pem) | 3.1 KiB | `other` |
+| [nerdlog_1.10.0_freebsd_amd64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_amd64.sig) | 96 B | `other` |
+| [nerdlog_1.10.0_freebsd_amd64.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_amd64.tar.gz) | 2.6 MiB | `native/linux/x64` |
+| [nerdlog_1.10.0_freebsd_amd64.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_amd64.tar.gz.sbom.json) | 27.7 KiB | `other` |
+| [nerdlog_1.10.0_freebsd_arm64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_arm64.pem) | 3.1 KiB | `other` |
+| [nerdlog_1.10.0_freebsd_arm64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_arm64.sig) | 96 B | `other` |
+| [nerdlog_1.10.0_freebsd_arm64.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [nerdlog_1.10.0_freebsd_arm64.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_arm64.tar.gz.sbom.json) | 27.7 KiB | `other` |
+| [nerdlog_1.10.0_freebsd_i386.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_i386.pem) | 3.1 KiB | `other` |
+| [nerdlog_1.10.0_freebsd_i386.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_i386.sig) | 96 B | `other` |
+| [nerdlog_1.10.0_freebsd_i386.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_i386.tar.gz) | 2.4 MiB | `native/linux/x86` |
+| [nerdlog_1.10.0_freebsd_i386.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_freebsd_i386.tar.gz.sbom.json) | 27.7 KiB | `other` |
+| [nerdlog_1.10.0_linux_amd64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_amd64.pem) | 3.1 KiB | `native/linux/x64` |
+| [nerdlog_1.10.0_linux_amd64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_amd64.sig) | 96 B | `native/linux/x64` |
+| [nerdlog_1.10.0_linux_amd64.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_amd64.tar.gz) | 2.6 MiB | `native/linux/x64` |
+| [nerdlog_1.10.0_linux_amd64.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_amd64.tar.gz.sbom.json) | 29.1 KiB | `native/linux/x64` |
+| [nerdlog_1.10.0_linux_arm64.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_arm64.pem) | 3.1 KiB | `native/linux/arm64` |
+| [nerdlog_1.10.0_linux_arm64.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_arm64.sig) | 96 B | `native/linux/arm64` |
+| [nerdlog_1.10.0_linux_arm64.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [nerdlog_1.10.0_linux_arm64.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_arm64.tar.gz.sbom.json) | 27.6 KiB | `native/linux/arm64` |
+| [nerdlog_1.10.0_linux_i386.pem](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_i386.pem) | 3.1 KiB | `native/linux/x86` |
+| [nerdlog_1.10.0_linux_i386.sig](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_i386.sig) | 96 B | `native/linux/x86` |
+| [nerdlog_1.10.0_linux_i386.tar.gz](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_i386.tar.gz) | 2.4 MiB | `native/linux/x86` |
+| [nerdlog_1.10.0_linux_i386.tar.gz.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_linux_i386.tar.gz.sbom.json) | 27.6 KiB | `native/linux/x86` |
+| [nerdlog_1.10.0_windows_amd64.zip](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_amd64.zip) | 2.6 MiB | `native/win/x64` |
+| [nerdlog_1.10.0_windows_amd64.zip.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_amd64.zip.sbom.json) | 27.8 KiB | `native/win/x64` |
+| [nerdlog_1.10.0_windows_arm64.zip](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_arm64.zip) | 2.4 MiB | `native/win/arm64` |
+| [nerdlog_1.10.0_windows_arm64.zip.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_arm64.zip.sbom.json) | 27.8 KiB | `native/win/arm64` |
+| [nerdlog_1.10.0_windows_i386.zip](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip) | 2.5 MiB | `native/win/x64` |
+| [nerdlog_1.10.0_windows_i386.zip.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip.sbom.json) | 27.8 KiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 1,557 · **Forks**: 40 · **Open issues**: 31 · **Contributors**: 2
+- **Stars**: 1,558 · **Forks**: 40 · **Open issues**: 31 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -58,8 +107,8 @@ Total: **17,706** lines of code across **147** files in the top 5 languages.
 Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nerdlog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nerdlog.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nerdlog.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:26:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:21Z._
