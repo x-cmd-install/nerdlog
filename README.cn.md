@@ -38,7 +38,7 @@ x install nerdlog
 
 ## 流行度
 
-- **Star**: 1,559 · **Fork**: 40 · **开放 issue**: 31 · **贡献者**: 2
+- **Star**: 1,560 · **Fork**: 40 · **开放 issue**: 31 · **贡献者**: 2
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install nerdlog
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 1 | 0 | 2 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 1 | 0 | 2 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 360d | 2025-09-18 | 0 | 0 | 0 | 1 | 0 | 2 |
-| last720d | 2024-09-23 | 18 | 19 | 1 | 17 | 14 | 303 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 360d | 2025-09-19 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last720d | 2024-09-24 | 18 | 19 | 1 | 17 | 14 | 303 |
 
 ## Release 资产
 
@@ -105,19 +105,6 @@ x install nerdlog
 | [nerdlog_1.10.0_windows_i386.zip](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip) | 2.5 MiB | `native/win/x64` |
 | [nerdlog_1.10.0_windows_i386.zip.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip.sbom.json) | 27.8 KiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/nerdlog) 上共有 **21** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.10.0` | ✅ latest |
-| Debian 14 | `1.10.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `1.10.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.10.0` | ✅ latest |
-| Alpine edge | `1.10.0` | ✅ latest |
-
 ## 改进这些数据
 
 nerdlog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `nerdlog` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -127,4 +114,4 @@ nerdlog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T03:35:41Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T03:44:46Z._

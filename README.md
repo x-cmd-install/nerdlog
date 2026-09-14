@@ -38,7 +38,7 @@ Total: **17,706** lines of code across **147** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,559 · **Forks**: 40 · **Open issues**: 31 · **Contributors**: 2
+- **Stars**: 1,560 · **Forks**: 40 · **Open issues**: 31 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **17,706** lines of code across **147** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 1 | 0 | 2 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 1 | 0 | 2 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 360d | 2025-09-18 | 0 | 0 | 0 | 1 | 0 | 2 |
-| last720d | 2024-09-23 | 18 | 19 | 1 | 17 | 14 | 303 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 360d | 2025-09-19 | 0 | 0 | 0 | 1 | 0 | 2 |
+| last720d | 2024-09-24 | 18 | 19 | 1 | 17 | 14 | 303 |
 
 ## Release assets
 
@@ -105,19 +105,6 @@ Total: **17,706** lines of code across **147** files in the top 5 languages.
 | [nerdlog_1.10.0_windows_i386.zip](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip) | 2.5 MiB | `native/win/x64` |
 | [nerdlog_1.10.0_windows_i386.zip.sbom.json](https://github.com/dimonomid/nerdlog/releases/download/v1.10.0/nerdlog_1.10.0_windows_i386.zip.sbom.json) | 27.8 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/nerdlog). **20** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.10.0` | ✅ latest |
-| Debian 14 | `1.10.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `1.10.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.10.0` | ✅ latest |
-| Alpine edge | `1.10.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nerdlog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -127,4 +114,4 @@ Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:35:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:44:46Z._
