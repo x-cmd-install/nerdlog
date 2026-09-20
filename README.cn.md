@@ -4,7 +4,7 @@
 
 Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 
-![nerdlog](https://repo.x-cmd.io/nerdlog.svg?lang=zh)
+[![x-cmd/install — nerdlog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nerdlog.svg?lang=zh)](https://x-cmd.com/install/nerdlog)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install nerdlog
 
 ## 代码洞察
 
-合计: **17,902** 行代码（覆盖前 5 种语言、共 **148** 个文件）。
+合计: **18,568** 行代码（覆盖前 5 种语言、共 **159** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 15,238 | 2,034 | 3,316 | 65 |
-| Yaml | 1,481 | 83 | 122 | 64 |
-| Sh | 1,105 | 267 | 158 | 5 |
+| Go | 15,655 | 2,099 | 3,376 | 69 |
+| Yaml | 1,700 | 90 | 138 | 71 |
+| Sh | 1,135 | 267 | 159 | 5 |
 | Makefile | 78 | 14 | 9 | 1 |
-| Markdown | 0 | 678 | 408 | 13 |
+| Markdown | 0 | 682 | 409 | 13 |
 
 ## 源代码
 
@@ -33,7 +33,7 @@ x install nerdlog
 ## 发布
 
 - **最新版本**: `v1.11.0` (2026-09-17)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 45 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install nerdlog
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 20 · **开放 PR**: 0 · **已关闭 issue**: 17 · **开放 issue**: 14 · **提交数**: 476
+- **发布数**: 19 · **已合并 PR**: 20 · **开放 PR**: 1 · **已关闭 issue**: 17 · **开放 issue**: 14 · **提交数**: 480
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 1 | 0 | 9 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 1 | 0 | 9 |
-| 360d | 2025-09-23 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last720d | 2024-09-28 | 19 | 20 | 0 | 17 | 14 | 311 |
+| 30d | 2026-08-21 | 1 | 0 | 1 | 1 | 0 | 13 |
+| last60d | 2026-07-22 | 1 | 0 | 1 | 1 | 0 | 13 |
+| 90d | 2026-06-22 | 1 | 0 | 1 | 1 | 0 | 13 |
+| last180d | 2026-03-24 | 1 | 0 | 1 | 1 | 0 | 13 |
+| 360d | 2025-09-25 | 1 | 0 | 1 | 1 | 0 | 13 |
+| last720d | 2024-09-30 | 19 | 20 | 1 | 17 | 14 | 315 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ nerdlog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T03:34:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:46:53Z._

@@ -4,7 +4,7 @@
 
 Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 
-![nerdlog](https://repo.x-cmd.io/nerdlog.svg)
+[![x-cmd/install — nerdlog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nerdlog.svg)](https://x-cmd.com/install/nerdlog)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install nerdlog
 
 ## Code insight
 
-Total: **17,902** lines of code across **148** files in the top 5 languages.
+Total: **18,568** lines of code across **159** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,238 | 2,034 | 3,316 | 65 |
-| Yaml | 1,481 | 83 | 122 | 64 |
-| Sh | 1,105 | 267 | 158 | 5 |
+| Go | 15,655 | 2,099 | 3,376 | 69 |
+| Yaml | 1,700 | 90 | 138 | 71 |
+| Sh | 1,135 | 267 | 159 | 5 |
 | Makefile | 78 | 14 | 9 | 1 |
-| Markdown | 0 | 678 | 408 | 13 |
+| Markdown | 0 | 682 | 409 | 13 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **17,902** lines of code across **148** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.11.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 45
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **17,902** lines of code across **148** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 14 · **Commits**: 476
+- **Releases**: 19 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 14 · **Commits**: 480
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 1 | 0 | 9 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 1 | 0 | 9 |
-| 360d | 2025-09-23 | 1 | 0 | 0 | 1 | 0 | 9 |
-| last720d | 2024-09-28 | 19 | 20 | 0 | 17 | 14 | 311 |
+| 30d | 2026-08-21 | 1 | 0 | 1 | 1 | 0 | 13 |
+| last60d | 2026-07-22 | 1 | 0 | 1 | 1 | 0 | 13 |
+| 90d | 2026-06-22 | 1 | 0 | 1 | 1 | 0 | 13 |
+| last180d | 2026-03-24 | 1 | 0 | 1 | 1 | 0 | 13 |
+| 360d | 2025-09-25 | 1 | 0 | 1 | 1 | 0 | 13 |
+| last720d | 2024-09-30 | 19 | 20 | 1 | 17 | 14 | 315 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:34:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:46:53Z._
