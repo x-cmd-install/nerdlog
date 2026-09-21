@@ -14,15 +14,15 @@ x install nerdlog
 
 ## Code insight
 
-Total: **18,568** lines of code across **159** files in the top 5 languages.
+Total: **21,706** lines of code across **169** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,655 | 2,099 | 3,376 | 69 |
-| Yaml | 1,700 | 90 | 138 | 71 |
+| Go | 18,677 | 2,647 | 3,750 | 77 |
+| Yaml | 1,816 | 94 | 147 | 73 |
 | Sh | 1,135 | 267 | 159 | 5 |
 | Makefile | 78 | 14 | 9 | 1 |
-| Markdown | 0 | 682 | 409 | 13 |
+| Markdown | 0 | 700 | 413 | 13 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **18,568** lines of code across **159** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.11.0` (2026-09-17)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 45
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **18,568** lines of code across **159** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 17 · **Open issues**: 14 · **Commits**: 480
+- **Releases**: 19 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 11 · **Commits**: 487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 0 | 1 | 1 | 0 | 13 |
-| last60d | 2026-07-22 | 1 | 0 | 1 | 1 | 0 | 13 |
-| 90d | 2026-06-22 | 1 | 0 | 1 | 1 | 0 | 13 |
-| last180d | 2026-03-24 | 1 | 0 | 1 | 1 | 0 | 13 |
-| 360d | 2025-09-25 | 1 | 0 | 1 | 1 | 0 | 13 |
-| last720d | 2024-09-30 | 19 | 20 | 1 | 17 | 14 | 315 |
+| 30d | 2026-08-22 | 1 | 0 | 1 | 1 | 0 | 20 |
+| last60d | 2026-07-23 | 1 | 0 | 1 | 1 | 0 | 20 |
+| 90d | 2026-06-23 | 1 | 0 | 1 | 1 | 0 | 20 |
+| last180d | 2026-03-25 | 1 | 0 | 1 | 1 | 0 | 20 |
+| 360d | 2025-09-26 | 1 | 0 | 1 | 1 | 0 | 20 |
+| last720d | 2024-10-01 | 19 | 20 | 1 | 20 | 11 | 322 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T03:46:53Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T03:43:07Z._
