@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3022975,
       "digest": "sha256:4080bb5e2cb62635bd04a04ae29dbc78c08c5cf042df0646b747fef382ec6bb6",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-09-17T17:41:40Z",
       "updated_at": "2026-09-17T17:42:21Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_darwin_amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2859490,
       "digest": "sha256:7f90ca7e22a9a77c2b00f680fcf3e236319c864febd299bde39c32d42c10b26b",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-09-17T17:42:10Z",
       "updated_at": "2026-09-17T17:46:31Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_darwin_arm64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 3096783,
       "digest": "sha256:7f10b64f06120399546add1d690b3c7cb6e181bf03cfcbf4a632e4fa596ea0b9",
-      "download_count": 26,
+      "download_count": 31,
       "created_at": "2026-09-17T17:42:21Z",
       "updated_at": "2026-09-17T17:43:10Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_linux_amd64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 2752419,
       "digest": "sha256:1b8f4d7230101c722933c861d31ec583313a167e4df7b131018e52d9c9226d28",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-09-17T17:42:18Z",
       "updated_at": "2026-09-17T17:42:45Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_linux_arm64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 2880134,
       "digest": "sha256:90bfa7e09bf303b6227d31724374a18450fbd49b20352872dc0d6d22c78aa441",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-17T17:42:11Z",
       "updated_at": "2026-09-17T17:42:46Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_linux_i386.tar.gz"
