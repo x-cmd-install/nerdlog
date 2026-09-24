@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2859490,
       "digest": "sha256:7f90ca7e22a9a77c2b00f680fcf3e236319c864febd299bde39c32d42c10b26b",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-09-17T17:42:10Z",
       "updated_at": "2026-09-17T17:46:31Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_darwin_arm64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 3096783,
       "digest": "sha256:7f10b64f06120399546add1d690b3c7cb6e181bf03cfcbf4a632e4fa596ea0b9",
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2026-09-17T17:42:21Z",
       "updated_at": "2026-09-17T17:43:10Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_linux_amd64.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 3026859,
       "digest": "sha256:9ae1d20c6573ad61a3192a493aa724bc4000e9f26fa8301d2d99a1458ee13113",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-09-17T17:41:39Z",
       "updated_at": "2026-09-17T17:42:11Z",
       "browser_download_url": "https://github.com/dimonomid/nerdlog/releases/download/v1.11.0/nerdlog_1.11.0_windows_amd64.zip"
