@@ -56,7 +56,7 @@
   binname: nerdlog
   visiblename: nerdlog
   version: 1.13.0
-  origversion: 1.13.0-r0
+  origversion: 1.13.0-r1
   status: newest
   summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server
   maintainers:
@@ -69,7 +69,7 @@
   binname: nerdlog-doc
   visiblename: nerdlog-doc
   version: 1.13.0
-  origversion: 1.13.0-r0
+  origversion: 1.13.0-r1
   status: newest
   summary: A fast, remote-first, multi-host log TUI, timeline histogram & no central server (documentation)
   maintainers:
