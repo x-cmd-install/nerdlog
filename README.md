@@ -38,22 +38,22 @@ Total: **30,834** lines of code across **185** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,590 · **Forks**: 41 · **Open issues**: 32 · **Contributors**: 2
+- **Stars**: 1,589 · **Forks**: 41 · **Open issues**: 33 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 10 · **Commits**: 511
+- **Releases**: 21 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 11 · **Commits**: 511
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 3 | 2 | 0 | 1 | 0 | 37 |
-| 90d | 2026-08-07 | 3 | 2 | 0 | 2 | 0 | 42 |
-| last180d | 2026-05-09 | 3 | 2 | 0 | 2 | 0 | 42 |
-| 360d | 2025-11-10 | 3 | 2 | 0 | 2 | 0 | 42 |
-| last720d | 2024-11-15 | 21 | 22 | 0 | 22 | 10 | 346 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-07 | 3 | 2 | 0 | 1 | 1 | 37 |
+| 90d | 2026-08-08 | 3 | 2 | 0 | 2 | 1 | 42 |
+| last180d | 2026-05-10 | 3 | 2 | 0 | 2 | 1 | 42 |
+| 360d | 2025-11-11 | 3 | 2 | 0 | 2 | 1 | 42 |
+| last720d | 2024-11-16 | 21 | 22 | 0 | 22 | 11 | 346 |
 
 ## Release assets
 
@@ -127,4 +127,4 @@ Install metadata for nerdlog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:29:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:28:08Z._
