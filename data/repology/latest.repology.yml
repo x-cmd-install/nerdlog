@@ -261,3 +261,16 @@
     - daniel@debian.org
   categories:
     - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: nerdlog
+  binnames:
+    - nerdlog
+  visiblename: nerdlog
+  version: 1.13.0
+  origversion: 1.13.0-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
