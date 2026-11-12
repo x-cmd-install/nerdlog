@@ -132,7 +132,7 @@
   binname: nerdlog
   visiblename: textproc/nerdlog
   version: 1.11.0
-  origversion: 1.11.0_2
+  origversion: 1.11.0_3
   status: outdated
   summary: Fast, multi-host TUI log viewer with timeline histogram
   maintainers:
